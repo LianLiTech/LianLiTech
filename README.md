@@ -1,16 +1,18 @@
-## Hi there 👋
+Meet the Hydro Cooling Rack — the crypto mining liquid cooling system
 
-<!--
-**LianLiTech/LianLiTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The Hydro Cooling Rack takes your Whatsminer/Antminer rigs from noisy and hot to quiet and reliable. Lower operating temperatures, reduced fan wear, higher sustained hash rates, and easier rack density for 24/7 operation. Modular design, plug-and-play installation, and ready for home rigs or small farms.
 
-Here are some ideas to get you started:
+Key benefits
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lower operating temperatures
+
+Reduced fan wear and noise
+
+Higher sustained hash rates
+
+Easier rack density for continuous operation
+
+Modular, plug-and-play design — suitable for home rigs or small farms
+
+👉 Want specs, pricing, or an install walk-through? View the product page — Hydro Cooling Rack（https://www.lianliwork.com/products_list/2.html）
+ or drop a comment / send a message.
