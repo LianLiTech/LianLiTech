@@ -14,5 +14,5 @@ Easier rack density for continuous operation
 
 Modular, plug-and-play design — suitable for home rigs or small farms
 
-👉 Want specs, pricing, or an install walk-through? View the product page — Hydro Cooling Rack（https://www.lianliwork.com/products_list/2.html）
+👉 Want specs, pricing, or an install walk-through? View the product page — Hydro Cooling Rack（https://www.lianliwork.com/products_list/2.html ）
  or drop a comment / send a message.
